@@ -1,1 +1,1 @@
-# Bokeh Tutorial for PyBerlin
+# Bokeh Tutorial for PyBerlin 18 - Summer event
