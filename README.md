@@ -8,4 +8,10 @@ With the help of this repo you will be able to build an interactive dashboard wi
 ## This repo provides several jupyter notebooks with which you can learn how to build such a bokeh application
 
 * The folder **A_static_plots** provides you with all basic bokeh knowledge so that you are able to plot and customize static plots
-* The folder **B_interactive_plots** is based upon the basic bokeh knowledge and introduces several interactive elements, you can add to make an interactive application out of your static plots! Finally, you will be able to recreate the example from above and build an interactive dashboard with all 250 Pokémon from generation 1 & 2
+* The folder **B_interactive_plots** is based upon the basic bokeh knowledge and introduces several interactive elements, you can add to make an interactive application out of your static plots! Finally, you will be able to recreate the example from above and **build an interactive dashboard with all 250 Pokémon from generation 1 & 2**
+
+This was a tutorial I gave for PyBerlin ([meetup-page](https://www.meetup.com/de-DE/PyBerlin)) in July 2020. You can find a live-recording of my code-walkthrough [here on YouTube](https://www.youtube.com/watch?v=qXvMgiT0uuA), if you are interested in a step-by-step tutorial.
+
+If you got any questions or recommendations, please feel free to contact me on LinkedIn!
+
+Have fun and share you amazing bokeh apps!
