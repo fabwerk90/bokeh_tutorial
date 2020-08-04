@@ -14,6 +14,6 @@ With the help of this repo you will be able to build an interactive dashboard wi
 
 This was a tutorial I gave for PyBerlin ([meetup-page](https://www.meetup.com/de-DE/PyBerlin)) in July 2020. You can find a live-recording of my code-walkthrough [here on YouTube](https://www.youtube.com/watch?v=qXvMgiT0uuA), if you are interested in a step-by-step tutorial.
 
-If you got any questions or recommendations, please feel free to contact me on LinkedIn!
+If you got any questions or recommendations, please feel free to contact me on [LinkedIn](https://www.linkedin.com/in/fabian-werkmeister-3008681a3/)!
 
 Have fun and share you amazing bokeh apps!
